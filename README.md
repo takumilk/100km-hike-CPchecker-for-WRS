@@ -27,3 +27,5 @@ http://localhost:18080/kabusapi/board/4563@1
 →colabratryでのスクレイピングなので、スプシ反映が手動である点。
   <br>
 →glideのDBページがオンラインでないとDBが更新されない点。
+  <br>
+→スクレイピング情報の最小化
