@@ -8,6 +8,7 @@ gc = gspread.authorize(creds)
 from bs4 import BeautifulSoup
 import requests
 
+#id5-11　のCP到着時間取り出し
 for j in range(5,12,1):
   res = requests.get(f'https://system.rs100.info/rs100kms/part/{j}')
   soup = BeautifulSoup(res.text,'html.parser')
