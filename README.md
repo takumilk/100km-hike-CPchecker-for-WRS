@@ -14,13 +14,15 @@ https://teratail.com/questions/311483
 </p>
 
 ```
-num = 4563
-url = f'http://localhost:18080/kabusapi/board/{num}@1'
-print(url)
+for j in range(5,12,1):
+  res = requests.get(f'https://system.rs100.info/rs100kms/part/{j}')
+print(res)
 ```
 
 ```
-http://localhost:18080/kabusapi/board/4563@1
+https://system.rs100.info/rs100kms/part/5
+https://system.rs100.info/rs100kms/part/6
+https://system.rs100.info/rs100kms/part/7 ....
 ```
 
 <h3>・改善点</h3>
