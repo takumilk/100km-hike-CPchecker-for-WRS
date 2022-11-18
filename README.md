@@ -1,5 +1,5 @@
 # 100km-hike-CPchecker-for-WRS
-<h2>100kmハイクのWRSメンバーのチェックポイント通過時間をリアルタイムで共有するapp</h2>
+<h2>100kmハイクWRSメンバーのチェックポイント通過時間をリアルタイムで共有するapp</h2>
 <h3>・仕組み<h3>
 <img width="1025" alt="image" src="https://user-images.githubusercontent.com/78514031/202569135-d4ba95a4-1c92-4e1b-b0f9-99c8c09f6f3c.png">
 
@@ -26,7 +26,7 @@ https://system.rs100.info/rs100kms/part/7 ....
 ```
 
 <h3>・改善点</h3>
-→colabratryでのスクレイピングなので、スプシ反映が手動である点。
+→colaboratryでのスクレイピングなので、スプシ反映が手動である点。(Colab Pro+だと定期実行ができるみたい)
   <br>
 →glideのDBページがオンラインでないとDBが更新されない点。
   <br>
