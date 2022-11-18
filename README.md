@@ -25,7 +25,7 @@ https://system.rs100.info/rs100kms/part/6
 https://system.rs100.info/rs100kms/part/7 ....
 ```
 
-<h3>・改善点</h3>
+<h3>・課題</h3>
 →colaboratryでのスクレイピングなので、定期実行ができない点。(Colab Pro+だとできるみたい)
   <br>
 →glideのDBページがオンラインでないとDBが更新されない点。
