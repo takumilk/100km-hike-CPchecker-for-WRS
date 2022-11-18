@@ -16,7 +16,7 @@ https://teratail.com/questions/311483
 ```
 for j in range(5,12,1):
   res = requests.get(f'https://system.rs100.info/rs100kms/part/{j}')
-print(res)
+  print(res)
 ```
 
 ```
