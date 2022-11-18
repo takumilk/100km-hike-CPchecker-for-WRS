@@ -26,7 +26,7 @@ https://system.rs100.info/rs100kms/part/7 ....
 ```
 
 <h3>・改善点</h3>
-→colaboratryでのスクレイピングなので、スプシ反映が手動である点。(Colab Pro+だと定期実行ができるみたい)
+→colaboratryでのスクレイピングなので、定期実行ができない点。(Colab Pro+だとできるみたい)
   <br>
 →glideのDBページがオンラインでないとDBが更新されない点。
   <br>
